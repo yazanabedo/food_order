@@ -1,0 +1,1 @@
+enum FileTypes { GALLERY, CAMERA, FILE }
