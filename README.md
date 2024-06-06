@@ -10,6 +10,7 @@ This project is a starting point for a Flutter application.
 
 The project is organized into the following directories:
 
+```plaintext
 lib/
 ├── app/
 │   ├── models/
